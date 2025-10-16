@@ -1,0 +1,2 @@
+# Secure-Employment-Support-System-AI-Based-Web-Application-
+Secure Employment Support System (SESS) is an AI-powered web application designed to provide financial support and career assistance to employees who lose their jobs. The system combines smart financial planning, predictive analytics, and personalized career guidance to help users navigate periods of unemployment with ease and confidence.
